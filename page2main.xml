@@ -137,8 +137,8 @@
 
     <Button
         android:text="Liked pattern :"
-        android:background="@android:color/holo_blue_light"
-        android:textColor="@android:color/white"
+        android:background="#C4ED68"
+        android:textColor="@android:color/black"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/button"
